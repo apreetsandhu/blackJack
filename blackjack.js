@@ -1,3 +1,6 @@
+//Anmolpreet Sandhu, Luciano Oliveira, Rushabh Raval
+// Douglas College
+
 var scoreWindow = null;
 	var username = sessionStorage.myValue;
 	var cards = new Array(52);
